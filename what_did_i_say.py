@@ -35,7 +35,7 @@ for sentence in sentences:
     while(temp.find(' ')!=-1 and index2!=-1 ):
         index1 = temp.find(' ')
         index2 = temp.find(' ', index1+1)
-        word = temp[index1:index2]
+        word = temp[index1+1:index2]
         print(word)
         if(word not in dictionary2):
             dictionary2[word] = 1
