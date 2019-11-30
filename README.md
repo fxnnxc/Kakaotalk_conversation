@@ -1,5 +1,3 @@
-# Kakaotalk_conversation
-
 
 ## Conversation_sentimental_analysis 
 연극 속 주인공의 감정에 따른 변화 시각화
