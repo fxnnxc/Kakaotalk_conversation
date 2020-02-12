@@ -29,4 +29,4 @@ Joker has quite complex sentimental
 |:--:|:--:| 
 | Harry Potter 1 | Harry Potter 2 |
 
-Here is a surprising idea. Dumbledoor shows up at the end of the movies and his sentimental is quite constant
+Here is a surprising idea. Dumbledore shows up at the end of the movies and his sentimental is quite constant
