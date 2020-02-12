@@ -2,11 +2,11 @@
 ## 1. Kakaotalk NLP
 대화에 참여한 인물들에 대하여 각 메세지별로 감성점수를 매겨서 전체적인 흐름을 나타낸다. 
 
-By calculating the sentimental score for each message of the participations of conversation,
+By calculating the sentimental score for each message of the participations of in kakaotalk conversation,
 
-we can plot the flow of the conversation.
+we can plot the flow of the conversation
 
-Which is very a useful feataure of converstation
+which is very a useful feataure of converstation
 
 |<a href="#"><img src="./images/img1.png" width="350px" height="300px" title ="Main Window" alt="hello!" /></a>| 
 |:--:| 
@@ -23,6 +23,10 @@ By choosing some main characters of the script and plot flow of the conversation
 |:--:| 
 | Joker |
 
+Joker has quite complex sentimental
+
 |<a href="#"><img src="./images/img3.png" width="350px" height="300px" title ="Main Window" alt="hello!" /></a>| <a href="#"><img src="./images/img4.png" width="350px" height="300px" title ="Main Window" alt="hello!" /></a>| 
 |:--:|:--:| 
 | Harry Potter 1 | Harry Potter 2 |
+
+Here is a surprising idea. Dumbledoor shows up at the end of the movies and his sentimental is quite constant
