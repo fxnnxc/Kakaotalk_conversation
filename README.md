@@ -6,5 +6,11 @@
 ## Kakaotalk NLP
 대화 속 발화자들의 감정 특징 분석
 
+
 ## what_did_i_say
 카카오톡 파일로부터 단어 빈도수 추출
+
+#### Main Window
+|<a href="#"><img src="./pictures/Main_Picture.png" width="250px" height="200px" title ="Main Window" alt="hello!" /></a>| 
+|:--:| 
+| *Main Window* |
