@@ -18,7 +18,9 @@
 |<a href="#"><img src="./images/img1.png" width="350px" height="300px" title ="Main Window" alt="hello!" /></a>| 
 |:--:| 
 | 감정 흐름 그래프 |
+
 부정적인 부분도 있고, 긍정적인 부분도 있습니다. 
+
 지금 대화는 단편적으로 나타난 것이지만
 이를 더 큰 대화에 적용한다면 그 사람의 특징으로 생각할 수 있습니다.
 
