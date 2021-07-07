@@ -1,4 +1,4 @@
-# Converstaion Sentimental Analysis 📽
+# Sentimental Analysis in Conversation timeline 📽
 
 감정은 크게 긍정(pos)과 부정(neg)으로 나눌 수 있습니다.
 ** 😥 -1  ~ 1 😁**
